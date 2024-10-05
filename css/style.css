@@ -234,7 +234,7 @@ body {
     #task-list li::before {
         top: 8px;
     }
-    #task-list li span {
+    #task-list li span , #task-list li i {
         top:8px;
         width:30px;
         height:30px;
